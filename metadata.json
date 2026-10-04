@@ -1,0 +1,6 @@
+{
+  "name": "CraftMobile 3D",
+  "description": "Mobile 3D Minecraft voxel sandbox with touch controls, creative & survival modes, block building, procedural world generation, and Google Drive cloud world saves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
